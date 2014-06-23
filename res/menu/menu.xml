@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/bt_categorias"
+        android:title="Categorias"
+        android:orderInCategory="0"
+        android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/itemid_1"
+        android:title="Promociones"
+        android:orderInCategory="0"
+        android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/itemid_2"
+        android:title="Destacado"
+        android:orderInCategory="0"
+        android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/itemid_2"
+        android:title="Autores"
+        android:orderInCategory="0"
+        android:showAsAction="ifRoom|withText" />
+    <item android:id="@+id/itemid_2"
+        android:title="Comprados"
+        android:orderInCategory="0"
+        android:showAsAction="ifRoom|withText" />
+</menu>

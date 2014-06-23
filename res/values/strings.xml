@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="BotonHablar">Hablar</string>
+    <string name="titulo">Repite como Loro</string>
+    <string name="hello">Hello World</string>
+    <string name="app_name">Paulus</string>
+    <string name="title_activity_iniciar_sesion">IniciarSesion</string>
+
+    <string-array name="idiomas">
+        <item>Español</item>
+        <item>Ingles</item>
+        <item>Italiano</item>
+        <item>Portugués</item>
+        <item>Frances</item>
+        <item>Polaco</item>
+        <item>Alemán</item>
+        <item>Japones</item>
+    </string-array>
+
+    <string name="social_text">Iniciar sesión con otros servicios</string>
+    <string name="text_login">Ingrese con su cuenta Paulus</string>
+    <string name="text_register">O, Cree una cuenta</string>
+    <string name="title_activity_registrarse">Registrarse</string>
+    <string name="title_registro">Registro</string>
+    <string name="politicas">\
+    Back to the Future es una película de ciencia ficción y comedia rodada en Estados Unidos. Dirigida por Robert Zemeckis; y producida por Steven Spielberg se estrenó en 1985. La historia se basa en un joven que accidentalmente es enviado al pasado y pone en peligro su propia existencia. Tras el éxito de la película se rodaron dos más, que son la continuación de la historia original: en 1989 se estrenó Back to the Future II y finalmente en 1990 Back to the Future III, concluyendo la trilogía. Existían planes para rodar una cuarta película de la serie, pero no pudieron concretarse debido a que Michael J. Fox empezó a manifestar los síntomas de la enfermedad de Parkinson.</string>
+    <string name="bt_acepto">Acepto</string>
+    <string name="info_paulus">Desea Recibir información de Paulus en:</string>
+    <string name="text_check">Temas Biblicos</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_idiomas">Idiomas</string>
+    <string name="title_activity_categorias">Categorias</string>
+    <string name="title_activity_home_categoria">HomeCategoria</string>
+    <string name="title_activity_producto">Producto</string>
+    <string name="facebook_app_id">1438134069786138</string>
+
+</resources>
